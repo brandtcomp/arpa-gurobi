@@ -1,1 +1,1 @@
-mainClass in (Compile, run) := Some("com.alvinalexander.Foo")
+mainClass in (Compile, run) := Some("Sudoku")
